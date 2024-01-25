@@ -1,5 +1,7 @@
 # protocol-version
 使用MrXiaoM未来框架版本信息自动提取工具[Eden](https://github.com/MrXiaoM/Eden)获取某大型应用版本信息
+## 2024.1.25
+- code=16似乎可通过挂机解决，之后可继续使用滑块验证的ticket触发短信验证
 ## 2024.1.16
 - 8.9.96出现code=16
 ## 2024.1.3
